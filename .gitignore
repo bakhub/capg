@@ -1,0 +1,16 @@
+# ignore all backupfiles
+*.bak
+#ignore all org files
+*.org
+#ignore all cloass files
+*.class
+#ignore all txt files starting with a,e,i,o,u
+[aeiou]*.txt
+#ignore .php files
+*.ppt
+#ignore .php files
+*.php
+#Do not ignore
+!index.php
+
+

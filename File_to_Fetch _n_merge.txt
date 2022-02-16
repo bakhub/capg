@@ -1,3 +1,0 @@
-This file will be downloaded via fetch and it will go to respective branch via merge
-This will have three lines
-Because we are adding extra line
